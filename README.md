@@ -6,7 +6,7 @@
 
 ## Bio
 
-**Hello**, I don't know why you are here and read or see my CV or portofilo. But here you are. My personal information that I have share with my friends, master, teachers and who is magical girl in my life.
+**Hello**, I don't know why you are here and read or see my CV or portofilo. But here you are. My personal information that I have share with my friends, master, teachers and who is magical girl in my life. (Her name is **Yeganeh_KH**)
 
 As you know site hosted on GitHub so its fast and cool. You can explore my projects in my GitHub account. There is a big note I have to say : I started in a few days these stuff and dev things before that I playing games and working for myself as a freelancer and yep it was good, I was studying high school and now I'm in 3rd term of university.
 
@@ -77,11 +77,11 @@ Exported CV to **PDF** and **Epub**.
 
 I'm  on the social media.
 
-[Email-1](http://ams@ams-hq.ir)
+[Email-1](http://ams@amshq.ir)
 
-[Email-2](http://info@ams-hq.ir)
+[Email-2](http://info@amshq.ir)
 
-[GitHub](http:/github.com/am-sl/)
+[GitHub](http:/github.com/JARVIS-AI/)
 
 [Instagram](https://www.instagram.com/ams_l97)
 

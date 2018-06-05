@@ -5,7 +5,7 @@ description: A blog about Amir Mohammad Safari Livari
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: AM-SL
+username: JARVIS-AI
 user_description: Amir Mohammad Safari Livari from Tehran born 19th january of 1997,
      Started learning how to program when he was 8 and wrote his "Hello World" before starting guidance highschool!
      Then He did not do something special other than studying his lessons till 2009,
@@ -16,7 +16,7 @@ user_description: Amir Mohammad Safari Livari from Tehran born 19th january of 1
 user_title: Software Developer
 email: ams.h4ck3r@gmail.com
 twitter_username: JARVISAI
-github_username:  AM-SL
+github_username:  jarvis-ai
 
 # Google-analytics
 google-analytics:
