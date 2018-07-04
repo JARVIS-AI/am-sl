@@ -7,7 +7,7 @@
 
 ## Bio
 
-**Hello**, I don't know why you are here and read or see my CV or portofilo. But here you are. My personal information that I have share with my friends, master, teachers and who is magical girl in my life. (Her name is **Yeganeh_KH**)
+**Hello**, I don't know why you are here and read or see my CV or portofilo. But here you are. My personal information that I have share with my friends, master, teachers and who is magical girl in my life. (Her name is **I don't want to say :D**)
 
 As you know site hosted on GitHub so its fast and cool. You can explore my projects in my GitHub account. There is a big note I have to say : I started in a few days these stuff and dev things before that I playing games and working for myself as a freelancer and yep it was good, I was studying high school and now I'm in 3rd term of university.
 
