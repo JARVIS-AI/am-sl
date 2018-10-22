@@ -1,9 +1,10 @@
 # Amir Mohammad Safari Livari
 
 <p align="center">
-  <img src="https://scontent-frt3-1.cdninstagram.com/vp/610afd31b2ab46cfc753470a5eef9539/5BB40E8C/t51.2885-19/s150x150/23596356_143682286356105_7136982434624569344_n.jpg" alt="Amir Mohammad Safari"></br></br>My Info in The W3B</br></br>
+  <img src="https://scontent-frx5-1.cdninstagram.com/vp/a68f3d1bd2a3409a5c47a6c76bd0f076/5C672D7C/t51.2885-19/s320x320/23596356_143682286356105_7136982434624569344_n.jpg" alt="Amir Mohammad Safari"></br></br>My Info in The W3B</br></br>
 <a href="https://jarvis-ai.github.io/am-sl/">Site Address Here</a>
 </p>
+
 
 ## Bio
 
@@ -78,19 +79,25 @@ Exported CV to **PDF** and **Epub**.
 
 I'm  on the social media.
 
+[Website](https://AMSHQ.IR) : AMSHQ.IR
+
 [Email-1](http://ams@amshq.ir)
 
 [Email-2](http://info@amshq.ir)
 
 [GitHub](http:/github.com/JARVIS-AI/)
 
-[Instagram](https://www.instagram.com/ams_l97)
+[Instagram](https://www.instagram.com/amsl_dev)
 
 [Telegram for easyway chat](https://t.me/J4RV1S4m3H4673R/)
 
 [Discord | For GamerZ | My discordtag = JARVIS-AI#0839](http:/discord.com/)
 
 [Steam | ID = JARVISNT](https://steam.com)
+
+[Keybase](http://keybase.io/) : jarvisai
+
+My Finger Print Key : 96A3 3F9B CF05 B2F0 7153  B815 1F0F 3D1D 2497 DC7C | GPG
 
 ## Legal
 
