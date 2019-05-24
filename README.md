@@ -79,11 +79,7 @@ Exported CV to **PDF** and **Epub**.
 
 I'm  on the social media.
 
-[Website](https://AMSHQ.IR) : AMSHQ.IR
-
-[Email-1](http://ams@amshq.ir)
-
-[Email-2](http://info@amshq.ir)
+[Website](https://AMSL.IR) : AMSL.IR
 
 [GitHub](http:/github.com/JARVIS-AI/)
 
@@ -96,6 +92,8 @@ I'm  on the social media.
 [Steam | ID = JARVISNT](https://steam.com)
 
 [Keybase](http://keybase.io/) : jarvisai
+
+[Twitter](https://twitter.com/gv_f4ck3r)
 
 My Finger Print Key : 96A3 3F9B CF05 B2F0 7153  B815 1F0F 3D1D 2497 DC7C | GPG
 
