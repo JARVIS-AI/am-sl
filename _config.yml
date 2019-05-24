@@ -1,7 +1,7 @@
 # Site settings
 title: Amir Mohammad Safari Livari
 description: A blog about Amir Mohammad Safari Livari
-baseurl: "/am-sl" # the subpath of your site, e.g. /blog
+baseurl: "am-sl.amsl.ir" # the subpath of your site, e.g. /blog
 # For fixing a url of main css of github pages is very important that
 # when a site or your page is under subpath of main user github page you must set it here
 # for refrencing a true path fo your assets.
