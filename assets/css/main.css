@@ -39,16 +39,16 @@ body {
   background: #1a222c;
   display: block;
   vertical-align: bottom;
-  width: 100vw;
-  min-height: 100vh;
+  width: 100%;
+  min-height: 100%;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed
 }
 
 #particles-js .particles-js-canvas-el {
-  width: 100vw !important;
-  height: 100vh !important
+  width: 100% !important;
+  height: 100% !important
 }
 
 .content {
